@@ -70,3 +70,5 @@ dotnet run
 ## Author
 
 Student practice project for learning C# programming.
+First with kattis https://open.kattis.com/submissions/19574853
+Then write in the VSCode terminal (dotnet new console -n TestFizzBuzz) and (cd TestFizzBuzz) and (dotnet run program.cs)
