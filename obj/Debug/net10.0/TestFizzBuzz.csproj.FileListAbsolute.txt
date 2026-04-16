@@ -1,0 +1,14 @@
+C:\Users\Suzan\C#Practice\TestFizzBuzz\bin\Debug\net10.0\TestFizzBuzz.exe
+C:\Users\Suzan\C#Practice\TestFizzBuzz\bin\Debug\net10.0\TestFizzBuzz.deps.json
+C:\Users\Suzan\C#Practice\TestFizzBuzz\bin\Debug\net10.0\TestFizzBuzz.runtimeconfig.json
+C:\Users\Suzan\C#Practice\TestFizzBuzz\bin\Debug\net10.0\TestFizzBuzz.dll
+C:\Users\Suzan\C#Practice\TestFizzBuzz\bin\Debug\net10.0\TestFizzBuzz.pdb
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.AssemblyInfo.cs
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.dll
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\refint\TestFizzBuzz.dll
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.pdb
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\TestFizzBuzz.genruntimeconfig.cache
+C:\Users\Suzan\C#Practice\TestFizzBuzz\obj\Debug\net10.0\ref\TestFizzBuzz.dll
