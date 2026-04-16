@@ -72,3 +72,9 @@ dotnet run
 Student practice project for learning C# programming.
 First with kattis https://open.kattis.com/submissions/19574853
 Then write in the VSCode terminal (dotnet new console -n TestFizzBuzz) and (cd TestFizzBuzz) and (dotnet run program.cs)
+
+---
+
+## AI - Help
+Student practice project for learning C# programming  with error fixed <img width="792" height="505" alt="image" src="https://github.com/user-attachments/assets/d4da955d-75dd-4425-a60a-0a4a80ce3023" />
+
